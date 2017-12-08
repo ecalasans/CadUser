@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="720"
+   height="1280"
+   viewBox="0 0 720.00001 1280"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Back3.svg"
+   inkscape:export-filename="/Users/ericcalasans/Desktop/CadUser/back3.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="92.106314"
+     inkscape:cy="432.58588"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="80.812204,998.03071"
+       orientation="1,0"
+       id="guide3347" />
+    <sodipodi:guide
+       position="680.84282,1107.1272"
+       orientation="0,1"
+       id="guide3349" />
+    <sodipodi:guide
+       position="-205.71429,742.85714"
+       orientation="0,1"
+       id="guide4157" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,227.63784)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#29a085;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="74.19944"
+       y="41.704872"
+       id="text3343"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3345"
+         x="74.19944"
+         y="41.704872"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Quicksand;-inkscape-font-specification:Quicksand;fill:#29a085;fill-opacity:1;">CadUser</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#29a085;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="603.83875"
+       y="69.219307"
+       id="text4151"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/ericcalasans/Desktop/CadUser/app/src/main/res/drawable/back3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4153"
+         x="603.83875"
+         y="69.219307"
+         style="font-size:22.5px;text-align:end;text-anchor:end;fill:#29a085;fill-opacity:1;">Projeto e Desenvolvimento</tspan><tspan
+         sodipodi:role="line"
+         x="603.83875"
+         y="97.344307"
+         style="font-size:22.5px;text-align:end;text-anchor:end;fill:#29a085;fill-opacity:1;"
+         id="tspan4155">de Software</tspan></text>
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#29a085;stroke-width:22.29999924;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5706"
+       cx="367.69553"
+       cy="798.42816"
+       rx="456.58896"
+       ry="459.61942"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#f8853f;stroke-width:112.3730011;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5728"
+       cx="359.65491"
+       cy="935.14386"
+       rx="333.33414"
+       ry="335.35443" />
+  </g>
+</svg>

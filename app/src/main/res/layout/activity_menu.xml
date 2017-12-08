@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.pds2016.caduser.Menu"
+    android:background="@drawable/back4">
+
+    <TextView
+        android:text="Sair"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btSair"
+        android:clickable="true"
+        android:cursorVisible="true"
+        android:gravity="center"
+        android:textColor="@color/verdeStyle"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_alignParentBottom="false"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/btListar"
+        android:layout_marginTop="10sp" />
+
+    <TextView
+        android:text="Listar todos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btListar"
+        android:clickable="true"
+        android:cursorVisible="true"
+        android:gravity="center"
+        android:textColor="@color/verdeStyle"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_marginTop="34dp"
+        android:layout_alignTop="@+id/btNovo"
+        android:layout_centerHorizontal="true"
+        android:onClick="abrirLista" />
+
+    <ImageView
+        android:src="@android:drawable/picture_frame"
+        android:layout_marginTop="118dp"
+        android:id="@+id/imFoto"
+        android:layout_width="88dp"
+        android:layout_height="118dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="dd/mm/aaaa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtNasc"
+        android:gravity="center_vertical|center_horizontal"
+        android:textColor="@color/laranjaStyle"
+        android:layout_below="@+id/txtNome"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="email@servidoremail.com"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtEmail"
+        android:gravity="center_vertical|center_horizontal"
+        android:textColor="@color/laranjaStyle"
+        android:layout_below="@+id/txtNasc"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="Nome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtNome"
+        android:textSize="20sp"
+        android:textColor="@color/verdeStyle"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="Novo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="102dp"
+        android:id="@+id/btNovo"
+        android:clickable="true"
+        android:cursorVisible="true"
+        android:gravity="center"
+        android:textColor="@color/verdeStyle"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
